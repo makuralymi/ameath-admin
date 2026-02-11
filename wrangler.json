@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "ameath-admin",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "48454db6-9cfa-49f5-b316-818e84341787",
+			"database_name": "ameath"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
